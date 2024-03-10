@@ -1,3 +1,3 @@
 # Objective:
 
-Using Python to build a machine learning model to help identify claims and opinions. This can reduce help to reduce the backlog of user reports and prioritize them more efficiently and help to mitigate misinformation in videos on the TikTok platform.
+Using Python to build a machine learning model to help identify if videos are claims or opinions. This can help to reduce the backlog of user reports to prioritize them more efficiently and to mitigate misinformation in videos on the TikTok platform.
