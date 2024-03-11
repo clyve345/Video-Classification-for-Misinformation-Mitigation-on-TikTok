@@ -1,8 +1,8 @@
 # Project Title
-TikTok Video Classification
+Video Classification for Misinformation Mitigation on TikTok Platform
 
 ## Objective:
-Using Python to build a machine learning model to help identify if videos are claims or opinions. This can help to reduce the backlog of user reports to prioritize them more efficiently and to mitigate misinformation in videos on the TikTok platform.
+Utilizing Python, developed a machine learning model aimed at discerning between factual claims and opinions presented in videos on the TikTok platform. The objective of this project was to streamline the process of identifying potentially misleading content, thereby reducing the backlog of user reports and enabling more efficient prioritization of moderation efforts to mitigate the spread of misinformation.
 
 I used Machine Learning models such Random Forest and XGBoost for the classification.
 
