@@ -8,5 +8,7 @@ I used Machine Learning models such Random Forest and XGBoost for the classifica
 
 Other than video classification, I do data cleaning, EDA and visualization to understand and prepare the data for analysis and modelling.
 
+## Data
+Dataset is taken from the Google Advanced Data Analyst Course on Coursera.
 
 
